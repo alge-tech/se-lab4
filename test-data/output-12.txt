@@ -1,0 +1,6 @@
+SUCCESS  # Ship initialized with only secondary loaded.
+SUCCESS  # The secondary torpedo fires despite an empty primary.
+FAIL     # Both stores are now empty.
+SUCCESS  # Fresh ship initialized with only primary loaded.
+SUCCESS  # The primary torpedo fires despite an empty secondary.
+FAIL     # Both stores are now empty.

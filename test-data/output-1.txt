@@ -1,0 +1,4 @@
+SUCCESS  # Ship initialized.
+SUCCESS  # First torpedo fired.
+SUCCESS  # The other torpedo was still available.
+FAIL     # Both stores are empty.

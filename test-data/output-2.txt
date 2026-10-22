@@ -1,0 +1,6 @@
+SUCCESS  # Original ship initialized.
+SUCCESS  # First SINGLE succeeds with both stores reliable.
+SUCCESS  # Primary-only-success probe initialized.
+SUCCESS  # The primary store fires first.
+SUCCESS  # Primary-failure probe initialized.
+FAIL     # The first attempt is primary; no retry on secondary.

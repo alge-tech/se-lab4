@@ -1,0 +1,9 @@
+SUCCESS  # Reliable ship initialized.
+SUCCESS  # First SINGLE.
+SUCCESS  # Second SINGLE.
+SUCCESS  # Third SINGLE.
+SUCCESS  # Fourth SINGLE.
+FAIL     # All four torpedoes have been fired.
+SUCCESS  # Store-selection probe initialized.
+SUCCESS  # Primary fires successfully.
+FAIL     # Secondary is next and its firing attempt fails.

@@ -1,0 +1,6 @@
+# T8: ALL succeeds when only primary fires successfully.
+GT4500,1,0,1,1
+TORPEDO,ALL
+# Primary is now empty; secondary still cannot fire successfully.
+TORPEDO,ALL
+EXIT

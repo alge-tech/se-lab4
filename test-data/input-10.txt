@@ -1,0 +1,7 @@
+# T10: SINGLE with two empty stores.
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+# ALL with a fresh ship whose stores are also empty.
+GT4500,0,0,0,0
+TORPEDO,ALL
+EXIT

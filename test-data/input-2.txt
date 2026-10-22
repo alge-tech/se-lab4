@@ -1,0 +1,11 @@
+# T2: The first SINGLE request uses the primary store.
+# Original setup: both stores are loaded and reliable.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+# CLI probe: only the primary store can fire successfully.
+GT4500,1,0,1,1
+TORPEDO,SINGLE
+# Complementary probe: primary fails; a successful secondary must not be used.
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+EXIT

@@ -1,0 +1,3 @@
+SUCCESS  # Ship initialized.
+SUCCESS  # Primary succeeds despite secondary failure.
+FAIL     # No further successful firing is possible.

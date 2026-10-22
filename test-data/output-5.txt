@@ -1,0 +1,2 @@
+SUCCESS  # Ship initialized.
+FAIL     # Primary fails; secondary must not be fired as a retry.

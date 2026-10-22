@@ -1,0 +1,8 @@
+# T1: A SINGLE request fires only one of two loaded, reliable stores.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+# One torpedo must remain after the first request.
+TORPEDO,SINGLE
+# Both torpedoes have now been fired.
+TORPEDO,SINGLE
+EXIT

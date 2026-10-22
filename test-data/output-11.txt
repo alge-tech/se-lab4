@@ -1,0 +1,10 @@
+SUCCESS  # Ship initialized with an empty primary and two secondary torpedoes.
+SUCCESS  # Secondary fires because primary is empty.
+SUCCESS  # Secondary fires again because primary is still empty.
+FAIL     # Both stores are empty.
+SUCCESS  # Fresh ship initialized with unequal ammunition counts.
+SUCCESS  # First SINGLE fires primary's only torpedo.
+SUCCESS  # Second SINGLE fires secondary.
+SUCCESS  # Empty primary causes fallback to secondary.
+SUCCESS  # Secondary's last torpedo remains available.
+FAIL     # All four torpedoes have been fired.

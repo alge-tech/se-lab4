@@ -1,0 +1,4 @@
+SUCCESS  # Ship initialized with two primary torpedoes and empty secondary.
+SUCCESS  # Setup firing from primary.
+SUCCESS  # Empty secondary causes fallback to primary.
+FAIL     # Both stores are now empty.

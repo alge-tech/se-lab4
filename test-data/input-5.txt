@@ -1,0 +1,4 @@
+# T5: A loaded primary fails; do not retry the reliable, loaded secondary.
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+EXIT

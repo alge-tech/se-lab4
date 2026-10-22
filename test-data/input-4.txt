@@ -1,0 +1,6 @@
+# T4: After primary fires, the next store is empty; use primary again.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

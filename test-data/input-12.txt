@@ -1,0 +1,9 @@
+# T12: ALL succeeds when primary is empty and secondary is loaded.
+GT4500,0,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
+# The opposite availability combination must also succeed once.
+GT4500,1,0,0,0
+TORPEDO,ALL
+TORPEDO,ALL
+EXIT

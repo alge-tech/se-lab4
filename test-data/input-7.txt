@@ -1,0 +1,6 @@
+# T7: ALL succeeds when only secondary fires successfully.
+GT4500,1,1,1,0
+TORPEDO,ALL
+# Secondary is now empty; primary still cannot fire successfully.
+TORPEDO,ALL
+EXIT

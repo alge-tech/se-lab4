@@ -1,0 +1,13 @@
+# T11: An initially empty primary must fall back to the loaded secondary.
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+# Repeat with an initially loaded primary that runs out before secondary.
+GT4500,1,0,3,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

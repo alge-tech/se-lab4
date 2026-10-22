@@ -1,0 +1,6 @@
+# T6: ALL fires both loaded, reliable stores.
+GT4500,1,0,1,0
+TORPEDO,ALL
+# Both torpedoes must have been consumed by the first ALL request.
+TORPEDO,ALL
+EXIT

@@ -1,0 +1,4 @@
+SUCCESS  # Fresh ship initialized for SINGLE.
+FAIL     # No torpedo is available for SINGLE.
+SUCCESS  # Fresh ship initialized for ALL.
+FAIL     # No torpedo is available for ALL.
